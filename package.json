@@ -1,0 +1,25 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "the final project of team1 about soccer",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "express",
+    "js",
+    "node",
+    "html",
+    "soccer",
+    "score",
+    "winner",
+    "team"
+  ],
+  "author": "Minara, Arailym, Yerkezhan, Aruzhan, Makhambet",
+  "license": "ISC"
+}
